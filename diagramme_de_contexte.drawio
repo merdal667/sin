@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T13:54:29.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="X4R4O68ReckiC3iLYFhe" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T16:30:43.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="jBnvy61OgOWkEkAQzItF" version="22.0.4" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1588" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-3" value="&amp;lt;&amp;lt;view&amp;gt;&amp;gt;&#xa;Name" style="shape=folder;html=1;tabWidth=80;tabHeight=40;tabPosition=left;align=left;verticalAlign=top;spacingLeft=10;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-3" value="&lt;div&gt;Diagramme&amp;nbsp;&lt;/div&gt;&lt;div&gt;de contexte&lt;/div&gt;" style="shape=folder;html=1;tabWidth=80;tabHeight=40;tabPosition=left;align=left;verticalAlign=top;spacingLeft=10;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="570" y="170" width="1220" height="830" as="geometry" />
         </mxCell>
-        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-4" value="ActorName" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-4" value="&lt;div&gt;Utilisateurs&lt;/div&gt;&lt;div&gt;(joueurs du cécifoot)&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="490" width="90" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-17" value="part1" style="align=right;html=1;verticalAlign=bottom;endArrow=none;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=none;rounded=0;" edge="1" parent="1" source="mAYkpqZz3SUtqJ27Bvcc-4">
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-17" value="" style="align=right;html=1;verticalAlign=bottom;endArrow=none;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=none;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.005;exitY=0.589;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mAYkpqZz3SUtqJ27Bvcc-20" target="mAYkpqZz3SUtqJ27Bvcc-4">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="1170" y="580" as="sourcePoint" />
-            <mxPoint x="930" y="580" as="targetPoint" />
+            <mxPoint x="800" y="583" as="sourcePoint" />
+            <mxPoint x="830" y="583" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mAYkpqZz3SUtqJ27Bvcc-18" value="1" style="resizable=0;html=1;align=left;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="mAYkpqZz3SUtqJ27Bvcc-17">
@@ -22,8 +22,41 @@
         <mxCell id="mAYkpqZz3SUtqJ27Bvcc-19" value="0..*" style="resizable=0;html=1;align=right;verticalAlign=top;labelBackgroundColor=none;fontSize=10" connectable="0" vertex="1" parent="mAYkpqZz3SUtqJ27Bvcc-17">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-20" value="Comment text" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-20" value="équipement embarqué par le joueur de cécifoot&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="920" y="520" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-23" value="Module de vibration" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="380" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-24" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;entryX=0.632;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mAYkpqZz3SUtqJ27Bvcc-20">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="1080" y="340" as="targetPoint" />
+            <mxPoint x="1120" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-26" value="Module de communication avec les barrières" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="560" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-27" value="" style="edgeStyle=none;endArrow=none;exitX=0;exitY=0.5;dashed=1;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="mAYkpqZz3SUtqJ27Bvcc-26" parent="1" target="mAYkpqZz3SUtqJ27Bvcc-20">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="1330" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-29" value="Assistance vocale par un coach" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="690" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-30" value="" style="edgeStyle=none;endArrow=none;exitX=0.4;exitY=0;dashed=1;html=1;rounded=0;" edge="1" source="mAYkpqZz3SUtqJ27Bvcc-29" parent="1" target="mAYkpqZz3SUtqJ27Bvcc-20">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="1050" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-32" value="Terrain de futsal standart" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="850" y="430" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mAYkpqZz3SUtqJ27Bvcc-34" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;" edge="1" source="mAYkpqZz3SUtqJ27Bvcc-32" parent="1" target="mAYkpqZz3SUtqJ27Bvcc-20">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="1030" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
